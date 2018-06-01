@@ -1,0 +1,29 @@
+Write-Host "---------------------"
+echo "follow the steps"
+Write-Host "---------------------"
+echo "enter 1 for application status"
+echo "enter 2 for online application"
+echo "enter 3 for offline the application"
+
+$APPLICATION = Read-Host "please enter the value"
+$server=Read-Host "please entere the serever"
+Get-Content -Path \\local\d$\web.config=$server
+SWITCH($APPLICATION)
+{
+  "1"
+  {
+  Enter-PSSession -computername "$server"
+  Import-Module webadministration
+  Set-Local iis:\apppools
+  $applicationpools = dir
+ 
+  foreach($item in $applicationpools)
+  {
+  $applicationpoolname=$item.Name
+  $application.status=$item.state
+  Write-Host $applicationpoolname->$applicationpoolstates
+  }
+ }
+}
+"2"
+{

@@ -1,0 +1,1 @@
+https://serverfault.com/questions/610953/how-to-list-out-virtual-directories-in-iis-from-the-all-the-websites-in-powershe

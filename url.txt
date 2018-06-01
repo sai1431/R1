@@ -1,0 +1,7 @@
+https://signin.aws.amazon.com/oauth?SignatureVersion=4&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAI2VABI4HCZAXF77A&X-Amz-Date=2018-03-12T15%3A56%3A33.139Z&X-Amz-Signature=06ceae23b90e9f20771b5c589dc42b412a8291f6d3c3f3291c1a513f1156de75&X-Amz-SignedHeaders=host&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fiam&redirect_uri=https%3A%2F%2Fconsole.aws.amazon.com%2Fiam%2Fhome%3Fregion%3Dus-east-1%26state%3DhashArgs%2523%252Fusers%252Fadmin%26isauthcode%3Dtrue&region=us-east-1&response_type=code&state=hashArgs%23%2Fusers%2Fadmin
+
+
+https://github.com/imcloudstudent/misc
+
+
+8$Lv7)$aOGX;NATQ=82eW.R7fLvd8oN*

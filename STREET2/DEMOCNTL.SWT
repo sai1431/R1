@@ -1,0 +1,18 @@
+[Demo Control File]
+CompName=     Hi Tech Entertainment
+ProdName=     Street Fighter II 
+DemoType=
+Dos_Command=  SWTGAME.BAT c h 
+Win_Command=  SWTGAME.BAT c h 
+Os2_Command=  SWTGAME.BAT c h
+Os2_Env=
+Win_Name=     
+OperSysReq=   DOS
+OperSysDes=
+ExitKey=      Esc
+RamNeed=      540
+Instructions=
+Sound=
+Mouse=
+GraphicsReq=  VGA
+GraphicsDes=
